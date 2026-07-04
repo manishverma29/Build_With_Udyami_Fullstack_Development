@@ -63,25 +63,25 @@ A modern and secure **Personal Diary Web Application** that allows users to reco
 
 ## 🔐 Sign In
 
-![Sign In](screenshots/signin_page.png)
+![Sign In](screenshot/signin_page.png)
 
 ---
 
 ## 📝 Create Account
 
-![Create Account](screenshots/create_account.png)
+![Create Account](screenshot/create_account.png)
 
 ---
 
 ## 📖 Dashboard
 
-![Dashboard](screenshots/personal_diary.png)
+![Dashboard](screenshot/personal_diary.png)
 
 ---
 
 ## ✨ Create New Diary Entry
 
-![New Entry](screenshots/create_personal_diary.png)
+![New Entry](screenshot/create_personal_diary.png)
 
 ---
 
