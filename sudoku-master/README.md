@@ -5,7 +5,7 @@ A modern and interactive Sudoku game built using **HTML**, **CSS**, and **JavaSc
 
 ## 🌐 Live Demo
 
-🔗 https://sudoku-game-beta-steel.vercel.app/
+🔗 https://sudokumaster-gamma.vercel.app/
 
 ---
 
@@ -146,7 +146,7 @@ Run the project by opening **index.html** in your browser.
 **Manish Verma**
 
 - GitHub: https://github.com/manishverma29
-- Live Demo: https://sudoku-game-beta-steel.vercel.app/
+- Live Demo: https://sudokumaster-gamma.vercel.app/
 
 ---
 
